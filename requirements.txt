@@ -1,0 +1,7 @@
+["dadata",
+"keyboard",
+"sqlite3",
+threading",
+"httpx",
+"os",
+"py-getch"]
