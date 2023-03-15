@@ -47,7 +47,7 @@ class Cmd:
         os.system('cls')
         if self.token == "" or self.token is None:
             while self.token == "" or self.token is None:
-                self.token = input("Введите или вставьте токен Dadata (Escape - выход из программы)\n")
+                self.token = input("Введите или вставьте API-ключ Dadata (Escape - выход из программы)\n")
 
             try:
                 dadata = Dadata(self.token)
