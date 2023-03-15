@@ -15,7 +15,7 @@
 Введите команду 
 
 ```
-pip install [requipment]
+pip install [requirement]
 ```
 
 # Запуск приложения 
