@@ -1,7 +1,4 @@
-["dadata",
-"keyboard",
-"sqlite3",
-threading",
-"httpx",
-"os",
-"py-getch"]
+dadata
+keyboard
+httpx
+py-getch
